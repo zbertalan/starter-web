@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason Taylor jason@git.asd @anya
 
 # THANKS
 
