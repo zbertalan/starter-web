@@ -18,4 +18,4 @@ This is ...
 
 Please fork this..
 
-2023 Git
+2023 Git All rights
